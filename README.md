@@ -1,2 +1,2 @@
-#CSITAN-RUPANDEHI
+## MERN - Init
 lorem ipsum dolor sit amet
